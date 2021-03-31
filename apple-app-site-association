@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "4KN48HU229.com.fortex-finance.uplata",
+        "paths": [
+          "/qr/*"
+        ]
+      }
+    ]
+  }
+}
