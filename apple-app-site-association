@@ -1,0 +1,19 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appID": "4KN48HU229.com.fortex-finance.uplata",
+                "appIDs": [
+                    "4KN48HU229.com.fortex-finance.uplata"
+                ],
+                "components": [
+                    {
+                        "/": "/qr/*",
+                        "comment": "Open QR"
+                    }
+                ]
+                "paths": ["*"]
+            }
+        ]
+    }
+}
